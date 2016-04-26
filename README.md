@@ -1,5 +1,3 @@
 # myfirstgit
 test
-This is my first test!
-
-Second line!
+This is my first test! line!
